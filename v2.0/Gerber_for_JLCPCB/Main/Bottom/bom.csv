@@ -1,0 +1,11 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C2",0805,2,22uF,C45783
+"C3, C4, C5, C6, C7, C8",0603,6,100nF,C14663
+"D1, D2",D_SOD-323,2,1N5819WS,C64886
+J1,PinHeader_2x05_2.54mm_Europower,1,POWER,
+"J12, J13",PinSocket_1x01_P2.54mm_Vertical,2,Conn_01x01_Socket,
+"J14, J15",PinSocket_1x02_P2.54mm_Vertical,2,Conn_01x02_Socket,
+"R11, R12",0603,2,100K,C25803
+R13,0603,1,1K,C21190
+R14,0603,1,4.7K,C23162
+"U1, U2",SOIC-8_3.9x4.9mm_P1.27mm,2,TL072CDT,C6961

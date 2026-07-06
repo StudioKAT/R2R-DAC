@@ -1,0 +1,13 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+D3,LED_D3.0mm_Clear,1,LED_Dual_Bidirectional,
+"J10, J11",PinHeader_1x02_P2.54mm_Vertical,2,Conn_01x02_Pin,
+J2,AudioJack_PJ301M-12,1,IN_1/2,
+J3,AudioJack_PJ301M-12,1,IN_1/4,
+J4,AudioJack_PJ301M-12,1,IN_1/8,
+J5,AudioJack_PJ301M-12,1,IN_1/16,
+J6,AudioJack_PJ301M-12,1,IN_1/32,
+J7,AudioJack_PJ301M-12,1,CV OUT,
+"J8, J9",PinHeader_1x01_P2.54mm_Vertical,2,Conn_01x01_Pin,
+"R1, R10, R2, R3, R4, R5",0603,6,30K,C22984
+"R6, R7, R8, R9",0603,4,15K,C22809
+RV1,Potentiometer_RV09,1,B100K,

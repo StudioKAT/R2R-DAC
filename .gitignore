@@ -1,1 +1,10 @@
-/v1.0/KiCAD/R2R DAC/R2R DAC-backups/
+# KiCad backup folders
+*-backups/
+
+# KiCad autosave / temporary files
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.bak
+*.bck
+*.tmp
+*.autosave
