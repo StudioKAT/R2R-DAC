@@ -23,7 +23,7 @@ The CV output is equipped with an attenuator, allowing the output level to be ad
 ## 仕様 / Spec
 - Format: Eurorack
 - Function: R2R DAC
-- Current needs: +12V: 10mA, -12V: 10mA
+- Current needs: +12V: 15mA, -12V: 15mA
 - Width: 2 HP
 - Depth: 28mm (including power connector)
 
